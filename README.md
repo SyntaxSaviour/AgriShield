@@ -182,5 +182,7 @@ AgriShield/
 - Create a feature branch
 - Submit a pull request
 
+---
+
 ## 📜 License
 This project is licensed under the MIT License.
