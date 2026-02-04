@@ -126,7 +126,7 @@ Train the Model
 python train.py
 ```
 
-###Evaluate the Model
+### Evaluate the Model
 ```bash
 python evaluate.py
 ```
@@ -135,6 +135,8 @@ python evaluate.py
 ```bash
 python predict.py --image path/to/image.jpg
 ```
+
+---
 
 ## 📁 Project Structure
 
@@ -153,11 +155,15 @@ AgriShield/
 └── README.md
 ```
 
+---
+
 ## 🔍 Results
 
 - Achieved high accuracy on validation and test datasets
 - Demonstrated robustness against variations in lighting and leaf orientation
 - Model generalizes well across multiple disease classes
+
+---
 
 ## 🌱 Future Enhancements
 
@@ -166,6 +172,8 @@ AgriShield/
 - Real-time disease detection using camera feed
 - Explainable AI (Grad-CAM visualizations)
 - Integration with weather and soil data
+
+---
 
 ## 🤝 Contributions
 
